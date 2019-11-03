@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <TextView
+
         android:id="@+id/box_one_text"
         style="@style/WhiteBox"
         android:layout_width="0dp"
